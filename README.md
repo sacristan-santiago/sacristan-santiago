@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @sacristan-santiago. Im a chemical engineer learning software development.
-- 👀 I’m interested in Backend Development
+- 👋 Hi, I’m @sacristan-santiago. Im a chemical engineer who works as a Backend developer.
+- 👀 I’m interested in Backend Development and Web 3.0 Projects. 
 - 🌱 I’m currently learning KOTLIN and working with Amazon Web Services.
 - 🐾 I teach Web Development at my coding school; HTML, CSS, SASS, Bootstrap and similar frameworks.
 - 💞️ I’m looking to collaborate on NEW APPS AND WEBSITES.
